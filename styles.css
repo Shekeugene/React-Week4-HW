@@ -1,0 +1,9 @@
+.Container {
+    margin: 30px 100px;
+  }
+  
+  .App {
+    padding: 10px 0;
+    border: 1px solid #dadde1;
+    border-radius: 5px;
+  }

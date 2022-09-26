@@ -1,0 +1,12 @@
+.WeatherForcastForm {
+    list-style: none;
+  }
+  
+  .Temperature {
+    font-size: 20px;
+  }
+  
+  .City{
+    font-weight: 800;
+    font-size: 20px;
+  }
