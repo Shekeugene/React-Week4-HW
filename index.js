@@ -13,7 +13,7 @@ root.render(
       <div className="App">
         <WeatherSearch />
       </div>
-      <p>Open-source code, by Eugene Shek</p>
+      <p><a href="https://github.com/Shekeugene/React-Week4-HW">Open-source code</a> by Eugene Shek</p>
     </div>
   </StrictMode>
 );
